@@ -32,10 +32,10 @@ const AboutMe = {
 
 
 
-  <a href="https://github.com/grdAyush">
-    <img src="https://komarev.com/ghpvc/?username=grdAyush">
+  <a href="https://github.com/Archayu">
+    <img src="https://komarev.com/ghpvc/?username=Archayu">
 </a>
-<a href="https://github.com/grdAyush?tab=followers"><img src="https://img.shields.io/github/followers/grdAyush?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Archayu?tab=followers"><img src="https://img.shields.io/github/followers/Archayu?label=Followers&style=social" alt="GitHub Badge"></a>
   </h3>
   
 
@@ -61,7 +61,7 @@ const AboutMe = {
 	
   | _**Github Stats**_ | _**Top Languages**_ |
   | ----------- | ------------- |
-  | <img src="https://github-readme-stats.vercel.app/api?username=grdAyush&show_icons=true&theme=rose_pine"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grdAyush&layout=compact&theme=rose_pine"/> |
+  | <img src="https://github-readme-stats.vercel.app/api?username=Archayu&show_icons=true&theme=rose_pine"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grdAyush&layout=compact&theme=rose_pine"/> |
 
 
 </div>
