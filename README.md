@@ -32,11 +32,6 @@ const AboutMe = {
 
 
 
-  <a href="https://github.com/Archayu">
-    <img src="https://komarev.com/ghpvc/?username=Archayu">
-</a>
-<a href="https://github.com/Archayu?tab=followers"><img src="https://img.shields.io/github/followers/Archayu?label=Followers&style=social" alt="GitHub Badge"></a>
-  </h3>
   
 
 
